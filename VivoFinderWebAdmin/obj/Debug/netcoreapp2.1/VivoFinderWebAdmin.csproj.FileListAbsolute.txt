@@ -1,0 +1,10 @@
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\bin\Debug\netcoreapp2.1\VivoFinderWebAdmin.deps.json
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\bin\Debug\netcoreapp2.1\VivoFinderWebAdmin.runtimeconfig.json
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\bin\Debug\netcoreapp2.1\VivoFinderWebAdmin.runtimeconfig.dev.json
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\bin\Debug\netcoreapp2.1\VivoFinderWebAdmin.dll
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\bin\Debug\netcoreapp2.1\VivoFinderWebAdmin.pdb
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.1\VivoFinderWebAdmin.csproj.CoreCompileInputs.cache
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.1\VivoFinderWebAdmin.AssemblyInfoInputs.cache
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.1\VivoFinderWebAdmin.AssemblyInfo.cs
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.1\VivoFinderWebAdmin.dll
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.1\VivoFinderWebAdmin.pdb

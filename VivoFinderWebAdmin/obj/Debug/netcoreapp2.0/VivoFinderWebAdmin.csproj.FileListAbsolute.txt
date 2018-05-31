@@ -8,3 +8,4 @@ C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2
 C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\bin\Debug\netcoreapp2.0\VivoFinderWebAdmin.pdb
 C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.0\VivoFinderWebAdmin.dll
 C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.0\VivoFinderWebAdmin.pdb
+C:\XamStudioProjects\VivoFinderWebAdmin\VivoFinderWebAdmin\obj\Debug\netcoreapp2.0\VivoFinderWebAdmin.csprojAssemblyReference.cache
